@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @DCCXXV
-- 🌱 I’m currently learning java.
+Currently studing the Software Engineering Career at Universidad Complutense de Madrid. 
