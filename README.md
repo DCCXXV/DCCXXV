@@ -1,1 +1,1 @@
-Currently studing Software Engineering at Universidad Complutense de Madrid. 
+📚 Currently studying Software Engineering at Universidad Complutense de Madrid.
