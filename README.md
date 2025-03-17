@@ -33,7 +33,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
 
 ## Estadísticas  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DCCXXV&show_icons=true&theme=rose_pine)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DCCXXV&show_icons=true&theme=github_dark)  
 
 ## Contacto  
 - [LinkedIn](https://www.linkedin.com/in/marco-antonio-p%C3%A9rez-neira-562b42342/)
