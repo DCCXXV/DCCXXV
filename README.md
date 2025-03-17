@@ -10,7 +10,7 @@
     - [Swapify](https://github.com/DCCXXV/swapify) - Red social de intercambio de habilidades para la asignatura **"Ingeniería Web"**.
       - **Tecnologías**: Spring Boot + Thymeleaf + Bootstrap + HTMX + Junit 5 + Karate testing).
 
-## Stack
+## Technologies
 ### _Backend_
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
@@ -24,7 +24,13 @@
 ### _DB_
 ![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+
+### Other
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
 
 ## Estadísticas  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DCCXXV&show_icons=true&theme=rose_pine)  
