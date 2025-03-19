@@ -10,7 +10,7 @@
     - [Swapify](https://github.com/DCCXXV/swapify) - Red social de intercambio de habilidades para la asignatura **"Ingeniería Web"**.
       - **Tecnologías**: Spring Boot + Thymeleaf + Bootstrap + HTMX + Junit 5 + Karate testing).
 
-## Technologies
+## Tecnologías
 ### _Backend_
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
@@ -26,7 +26,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
 
-### Other
+### Otros
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
