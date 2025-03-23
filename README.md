@@ -1,5 +1,5 @@
 # Marco Antonio Pérez Neira  
-> Estudiante de **Ingeniería del Software** en la [UCM](https://www.ucm.es/) 🎓
+Estudiante de **Ingeniería del Software** en la [UCM](https://www.ucm.es/) 🎓
 
 ## Educación  
 - **Universidad Complutense de Madrid** (2022 - Actual)  
@@ -37,3 +37,8 @@
 
 ## Contacto  
 - [LinkedIn](https://www.linkedin.com/in/marco-antonio-p%C3%A9rez-neira-562b42342/)
+
+## Blog
+### [dccxxv.dev](https://dccxxv.dev)
+
+
