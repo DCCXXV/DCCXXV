@@ -1,7 +1,7 @@
 # Marco Antonio Pérez Neira
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=DCCXXV&color=007ec6&style=for-the-badge" alt="Profile views">
+    <img src="https://komarev.com/ghpvc/?username=DCCXXV&color=007ec6&style=for-the-badge" alt="Profile views">
 </p>
 
 **Universidad Complutense de Madrid** (2022 - Actual)
@@ -26,10 +26,10 @@
 ## Estadísticas  
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DCCXXV&show_icons=true&theme=github_dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DCCXXV&show_icons=true&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DCCXXV&langs_count=8&layout=compact&theme=github_dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DCCXXV&langs_count=8&layout=compact&theme=github_dark" />
 </a>
 
 ## Contacto  
