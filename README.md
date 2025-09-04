@@ -34,8 +34,3 @@
 
 ## Contacto  
 - [LinkedIn](https://www.linkedin.com/in/marco-antonio-p%C3%A9rez-neira-562b42342/)
-
-## Blog
-### [dccxxv.dev](https://dccxxv.dev)
-
-
