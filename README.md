@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=DCCXXV&color=007ec6&style=for-the-badge" alt="Profile views">
 </p>
 
-Para más información: [dccxxv.dev](https://dccxxv.dev)
+### Para más información: [dccxxv.dev](https://dccxxv.dev)
 <!--
 ## Stack
 
