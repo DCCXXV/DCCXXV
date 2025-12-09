@@ -1,10 +1,11 @@
 # Marco Antonio Pérez Neira
 
-<p align="right">
+<p align="left">
     <img src="https://komarev.com/ghpvc/?username=DCCXXV&color=007ec6&style=for-the-badge" alt="Profile views">
 </p>
 
 ### Para más información: [dccxxv.dev](https://dccxxv.dev)
+
 <!--
 ## Stack
 
@@ -15,7 +16,7 @@
 | **Bases de Datos** | ![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) ![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white) |
 | **Otros**    | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white) |
 -->
-
+<!--
 ## Estadísticas  
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -25,3 +26,4 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DCCXXV&langs_count=8&layout=compact&theme=github_dark" />
 </a>
 
+-->
